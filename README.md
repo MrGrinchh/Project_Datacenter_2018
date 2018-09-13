@@ -1,20 +1,18 @@
-
-GRUPO: DURO DE MATAR [DATACENTER]
+# GRUPO: DURO DE MATAR [DATACENTER]
 
 Integrantes:
-• Andressa Feitosa
-• Bianca Rodrigues
-• Francisco Soares
-• João Pedro Baria
-• Matheus Israel
-• Vitor Hugo Gomes
+- **Andressa Feitosa**
+- **Bianca Rodrigues**
+- **Francisco Soares**
+- **João Pedro Baria**
+- **Matheus Israel**
+- **Vitor Hugo Gomes**
 
-INTRODUÇÃO AO REPOSITÓRIO
+## INTRODUÇÃO AO REPOSITÓRIO
 
-Repositório criado para publicar documentos e outros arquivos relacionados a implementação do nosso Datacenter e suas tecnologias!
+**Repositório criado para publicar documentos e outros arquivos relacionados a implementação do nosso Datacenter e suas tecnologias!**
 
-AGRADECIMENTOS:
+### AGRADECIMENTOS:
+_Ricardo Lemos (Gestor) & Roberto Possarle (Gestor/Psicanalista)_ 
 
-Ricardo Lemos (Gestor) & Roberto Possarle (Gestor/Psicanalista)
-
-Observações: Este repositório está sujeito a diversas alterações até o mês de Dezembro!
+**Observações:** _Este repositório está sujeito a diversas alterações até o mês de Dezembro!_
