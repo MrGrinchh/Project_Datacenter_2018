@@ -10,8 +10,7 @@ Integrantes:
 
 ## INTRODUÇÃO AO REPOSITÓRIO
 
-*Repositório criado para publicar documentos e outros arquivos relacionados a implementação do nosso Datacenter e suas tecnologias!**
+"*Repositório criado para publicar documentos e outros arquivos relacionados a implementação do nosso Datacenter e suas tecnologias!**
 
-Agradecimentos:
-*Ricardo Lemos (Gestor)*
-**Roberto Possarle (Gestor/Psicanalista)*
+### AGRADECIMENTOS:
+_Ricardo Lemos (Gestor) & Roberto Possarle (Gestor/Psicanalista)_ 
